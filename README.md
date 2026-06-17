@@ -16,7 +16,7 @@ An interactive Power BI dashboard designed to analyze and break down demographic
 * **Visualization Techniques:** Treemaps, Stacked Column Charts, Gauge Charts, Donut Charts, and KPI Cards.
 
 ## Live Preview
-*(Tip: Add your screenshot here! Upload your 'image_a595bb.png' to your repository and link it below)*
+
 <img width="634" height="356" alt="image" src="https://github.com/user-attachments/assets/19bd04b9-54f0-4ed0-b275-8b861b403786" />
 
 
